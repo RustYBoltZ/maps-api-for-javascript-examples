@@ -1,0 +1,60 @@
+  
+Multi-Modal Transit System 
+
+
+Problems Faced 
+
+
+Traffic Congestion
+Pollution
+Wastage of time
+Corruption
+Decentralized Network
+
+
+Understanding the problems
+
+Total number of Vehicles in india are at staggering number of 230 million and 50,000 Vehicles are purchased everyday.
+
+80%+ Vehicles use Petrol. 27% pollution is caused by motorized vehicles which is second after Industrial pollution which is at 51%
+Road network grew by 1/3rd whereas number of vehicles were increased by 3 times which is the main reasons our roads are clogged.
+
+Inefficient usage of 4 wheelers which have the seats of 5 but only 1 is used and it’s the major reason for roads being clogged.
+
+
+Project objective
+
+Our major objective is to centralize the intercity transit. And To Promote the usage of Public transit for a greener future and much faster and efficient travelling environment. 
+
+
+
+
+Advantages 
+
+
+Time Efficient
+Significant decrease in pollution
+Inexpensive 
+Greener Environment
+
+
+Introducing: Real-Time City Bus Routing System
+
+How We’ll make it happen
+
+Vehicular route guidance deals with the problem of assigning an optimal path to each vehicle from origin to the destination. The optimality in this problem is defined on several criteria, for example, the shortest path, the shortest time, and the least usage of local paths. Meanwhile It would allow drop and pickups similar to cab systems and digital payment system. This routing system would be ever evolving depending upon real-time situation. Which would create much better and efficient transportation. And people will be rewarded depending upon their rides in public transits.
+
+
+
+Introducing: Real-Time City Bus Routing System
+
+How We’ll make it happen
+
+Vehicular route guidance deals with the problem of assigning an optimal path to each vehicle from origin to the destination. The optimality in this problem is defined on several criteria, for example, the shortest path, the shortest time, and the least usage of local paths. Meanwhile It would allow drop and pickups similar to cab systems and digital payment system. This routing system would be ever evolving depending upon real-time situation. Which would create much better and efficient transportation. And people will be rewarded depending upon their rides in public transits.
+
+
+
+Thank you!
+
+Presented by
+Team BotsForDots
